@@ -1,4 +1,4 @@
-# camagru
+# Сamagru
 Web project of 21 school (ecole 42).
 
 ## Описание проекта
