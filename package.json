@@ -1,0 +1,23 @@
+{
+  "name": "camagru",
+  "version": "1.0.0",
+  "description": "Web project of 21 school (ecole 42).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thereodorex/camagru.git"
+  },
+  "author": "jcorwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thereodorex/camagru/issues"
+  },
+  "homepage": "https://github.com/Thereodorex/camagru#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
